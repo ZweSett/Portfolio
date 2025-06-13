@@ -10,5 +10,5 @@ I successfully completed the **TryHackMe Junior Penetration Tester Learning Path
 📄 **[Click here to view the certificate (PDF)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UVFALMN1WS.pdf)**
 
 <p align="center">
-  <img src="images/THM-Jr-Penetration-Tester.png" alt="TryHackMe Jr Penetration Tester Certificate" width="600">
+  <img src="THM-Jr-Penetration-Tester.png" alt="TryHackMe Jr Penetration Tester Certificate" width="600">
 </p>
