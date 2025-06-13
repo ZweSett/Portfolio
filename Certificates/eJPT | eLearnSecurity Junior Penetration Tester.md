@@ -2,7 +2,7 @@
 
 **Name:** Zwe Sett Aung  
 **Score:** 85%  
-**Date Completed:** [Add actual date here]  
+**Date Completed:** 12th June 2025
 **Time Taken:** Passed the 48-hour exam in just **17 hours**
 
 ---
@@ -26,5 +26,5 @@ I successfully passed the **eLearnSecurity Junior Penetration Tester (eJPT)** ex
 📄 **[Verify Credential on INE](https://certs.ine.com/611ad75d-0308-481c-af31-0a89b2ac1c09)**
 
 <p align="center">
-  <img src="images/eJPT-Certificate.png" alt="eJPT Certificate" width="600"/>
+  <img src="../images/eJPT-Certificate.png" alt="eJPT Certificate" width="600"/>
 </p>
