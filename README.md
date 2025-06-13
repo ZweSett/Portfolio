@@ -1,7 +1,7 @@
 # Portfolio
 Penetration testing and vulnerability assessment projects
 
-<img src="ZweSettAung.jpg" alt="Zwe Sett Aung" width="250"/>
+<img src="images/ZweSettAung.jpg" alt="Zwe Sett Aung" width="250"/>
 
 # 👨‍💻 Zwe Sett Aung
 
