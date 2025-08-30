@@ -1,7 +1,7 @@
 # 🌐 eLearnSecurity Web Application Penetration Tester (eWPT) Certification
 
 **Name:** Zwe Sett Aung  
-**Score:** 78%  
+**Score:** 82%  
 **Date Completed:** 28th August 2025  
 **Time Taken:** Completed the **10-hour practical exam** within **8 hours**
 
